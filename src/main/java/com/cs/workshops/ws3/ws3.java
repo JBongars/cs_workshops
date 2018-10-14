@@ -17,8 +17,6 @@ public class ws3
         int d, n;
 
 
-
-
         boolean FLAG = true;
 
         while (FLAG) {
